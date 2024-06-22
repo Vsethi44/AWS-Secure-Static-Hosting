@@ -83,3 +83,8 @@ This project successfully provided a secure, reliable, and efficient global host
 
 ## Contact
 For further information or support, please contact [vishawnath.sethi786@hotmail.com]
+
+Architectural Diagram: 
+
+![image](https://github.com/Vsethi44/AWS-Secure-Static-Hosting/assets/151629020/955bfb74-ec30-418a-b39c-b84825ebb5c8)
+
