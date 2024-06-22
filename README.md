@@ -1,6 +1,5 @@
 # AWS-Secure-Static-Hosting
 A comprehensive solution for hosting a secure, reliable, and efficient static web page using AWS services
-# AWS Capstone Project
 
 ## Introduction
 The project aims to develop a secure, reliable, and efficient hosting solution for a static web page. The organization's current infrastructure lacks essential security measures, redundancy, and global accessibility, leading to potential security breaches, downtime, and slow website performance. This project provides a comprehensive solution using Amazon Web Services (AWS) to address these concerns.
